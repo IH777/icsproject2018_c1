@@ -197,7 +197,6 @@
 1    61   RECOG_EVENT_STOP|かわいい           VALUE_EVAL|random|LE|70
 1    61   RECOG_EVENT_STOP|綺麗               VALUE_EVAL|random|LE|70
 1    61   RECOG_EVENT_STOP|きれい             VALUE_EVAL|random|LE|70
-1    61   RECOG_EVENT_STOP|おっぱい           VALUE_EVAL|random|LE|70
 61   62   VALUE_EVENT_EVAL|random|LE|70|TRUE  SYNTH_START|mei|mei_voice_bashful|恥ずかしいです。
 61   62   VALUE_EVENT_EVAL|random|LE|70|FALSE SYNTH_START|mei|mei_voice_normal|知ってるわ。
 62   63   <eps>                               MOTION_ADD|mei|expression|Expression\mei_bashfulness\mei_bashfulness.vmd|PART|ONCE
